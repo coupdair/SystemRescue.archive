@@ -3,5 +3,6 @@ SystemRescueCD images backup (arbitrary versions).
 ZIP files of different used SystemRescueCD versions in an arbitrary history.
 
 * versions
-** SystemRescue.zip: PIVlml
+** SystemRescue.v1.2.1.zip: ISO v1.2.1 for CD-R (234 Mo) systemrescuecd-x86-1.2.1.iso -valid for USBkey of 256Mo-
+** SystemRescue.v1.6.1.zip: ISO v1.6.1 for CD-R (272 Mo) systemrescuecd-x86-1.6.1.iso
 
